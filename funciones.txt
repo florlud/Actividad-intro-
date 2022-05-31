@@ -1,1 +1,2 @@
 funciones de git hub
+agrego segunda linea del archivo funciones
